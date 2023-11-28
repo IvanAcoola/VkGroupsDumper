@@ -23,7 +23,7 @@ dumper.dump_all()
 
 Клонируем репозиторий
 ```
-git clone https://github.com/IvanAcoola/vkgroupsdumper.git
+git clone https://github.com/IvanAcoola/VkGroupsDumper.git
 cd vkgroupsdumper
 ```
 Создаем окружение и загружаем библиотеки

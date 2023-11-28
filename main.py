@@ -5,7 +5,8 @@ def main():
     tokens = []
 
     for token in tokens:
-        е
+        dumper = dumperClass.VkGroupDumper(token)
+        dumper.dump_all()
 
 
 if __name__ == "__main__":
